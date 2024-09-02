@@ -1,6 +1,6 @@
   <p align="center">
 	<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihari2&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=vihari2&theme=tokyonight&show_icons=ture" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=loi777&theme=tokyonight&show_icons=ture" />
 </p>
   
   
