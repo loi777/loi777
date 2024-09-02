@@ -10,7 +10,7 @@
 
  Code
 
-[![My Skills](https://skillicons.dev/icons?i=c,cuda,python,vue,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cuda,python,r,vscode)](https://skillicons.dev)
 
 
 Web Design
