@@ -1,8 +1,3 @@
-<p align="center">
-	<img alt="cat" height="200px" style="border-radius:5%;border:1px solid cyan" src="https://media3.giphy.com/media/F73KLZL9eAfDcDQFAt/giphy.gif?cid=ecf05e47jxkqz3hwz3i6zcexm8rfn51uol5eiepr3se43rgp&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
-</p>
-
-
   <p align="center">
 	<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vihari2&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=vihari2&theme=tokyonight&show_icons=ture" />
