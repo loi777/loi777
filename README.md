@@ -10,9 +10,9 @@
 
  Code
 
-[![My Skills](https://skillicons.dev/icons?i=c,Cuda,python,r,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,Cuda,python,java,r)](https://skillicons.dev)
 
 
-Web Design
+Not Code
 
-[![My Skills](https://skillicons.dev/icons?i=figma,wordpress,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,githubactions,arch,unreal,gamemakerstudio)](https://skillicons.dev)
