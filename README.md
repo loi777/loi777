@@ -10,7 +10,7 @@
 
  Code
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,r)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python)](https://skillicons.dev)
 
 
 Engines
