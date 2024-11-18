@@ -13,6 +13,10 @@
 [![My Skills](https://skillicons.dev/icons?i=c,python,java,r)](https://skillicons.dev)
 
 
-Not Code
+Engines
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,githubactions,arch,unreal,gamemakerstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal,gamemakerstudio)](https://skillicons.dev)
+
+Other experiences
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,githubactions,arch)](https://skillicons.dev)
